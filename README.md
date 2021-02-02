@@ -37,7 +37,6 @@
 
 ![screenshot](/assets/overview.png)
 
-- Where can I see your demo?
 Pueden ver el proyecto en https://beyond77.github.io/404.github.io/ la experiencia fue buena, me ayudo a recordar mis conocimientos de HTML y CSS.
 
 Mejore bastante con mi manejo de bootstrap y espero que a ustedes también les sirva para practicar.
