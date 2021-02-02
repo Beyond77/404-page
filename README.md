@@ -68,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](http://javierrubin.com)
-- GitHub [@your-username](https://github.com/Beyond77)
-- Twitter [@your-twitter](https://twitter.com/home)
+- Website [www.javierrubin.com](http://javierrubin.com)
+- GitHub [@beyond77](https://github.com/Beyond77)
+- Twitter [@javierrubin22](https://twitter.com/home)
