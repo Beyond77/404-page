@@ -1,17 +1,17 @@
 .title {
 
-    font-family: Inconsolata;
+    font-family: 'Inconsolata', monospace;
     font-style: normal;
     font-weight: bold;
     
 }
 
-
 .title-404 {
-    font-family: Space Mono;
+    font-family: 'Space Mono', monospace;
 }
 
-.text-404 {
-}
 
+.footer-text {
+    font-family: 'Montserrat', sans-serif;
+}
 
